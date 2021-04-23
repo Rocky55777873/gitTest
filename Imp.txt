@@ -3,6 +3,6 @@ public class Main
 public staitc void main(String[]args)
 {
 
-
+System.out.prinltn('here we change some thing');
 }
 }
