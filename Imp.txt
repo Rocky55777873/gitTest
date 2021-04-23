@@ -12,5 +12,8 @@ int c=60;
 int d=70;
 int e=80;
 int f=80;
+int g=90;
+int h=100;
+
 }
 }
