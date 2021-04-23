@@ -10,5 +10,7 @@ System.out.prinltn('here we change some thing');
 System.out.println('here changes is performed');
 int c=60;
 int d=70;
+int g=90;
+int h=100;
 }
 }
