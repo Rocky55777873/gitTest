@@ -3,6 +3,7 @@ public class Main
 public staitc void main(String[]args)
 {
 
-
+int a=20;
+System.out.println('here');
 }
 }
