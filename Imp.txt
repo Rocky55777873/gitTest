@@ -8,5 +8,7 @@ System.out.println('here');
 System.out.println('do more');
 System.out.prinltn('here we change some thing');
 System.out.println('here changes is performed');
+int c=60;
+int d=70;
 }
 }
