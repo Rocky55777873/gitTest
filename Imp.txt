@@ -3,7 +3,11 @@ public class Main
 public staitc void main(String[]args)
 {
 
+
 int a=20;
 System.out.println('here');
+
+System.out.prinltn('here we change some thing');
+
 }
 }
